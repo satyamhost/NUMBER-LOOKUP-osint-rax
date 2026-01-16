@@ -26,9 +26,9 @@ python rax-osint.py
 
 
 
+____________________________________________
 
-
-#about tool 🔥 
+# about tool 🔥 
 
 
 
